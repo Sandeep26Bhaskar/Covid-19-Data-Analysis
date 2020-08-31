@@ -9,6 +9,6 @@ The Questions that arises are:
   3) Visualize the Death, Confirmed and Mortality rate using Indian map with states.
   4) Classify the cases with the Age count in 4 Categories (children, young adults, middle-aged adults, old-aged adults) using Bar chart with horizintal orientation.
 
-Dataset Used : 
+Dataset Used : <br>
 1st Dataset : Covid_19_india.csv<br>
 2nd Dataset: IndividualDetails.csv
